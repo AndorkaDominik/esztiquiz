@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 
 export default function QuizPractice({ quiz }: { quiz: any }){
   const [index, setIndex] = useState(0);

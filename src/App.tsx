@@ -1,16 +1,14 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import './App.css'
 import QuizImporter from './components/QuizImporter'
 import QuizPractice from './components/QuizPractice'
 import QuizAnswers from './components/QuizAnswers'
 import PromptPage from './components/PromptPage'
-import { useEffect } from 'react'
 
 function App(){
   const [quiz, setQuiz] = useState<any>(null)
   const [page, setPage] = useState<'import'|'practice'|'answers'|'prompt'>('import')
   const [uploads, setUploads] = useState<any[]>([])
-  const [showUploads, setShowUploads] = useState(false)
 
   useEffect(()=>{
     // try to load public/stat.json as a built-in upload

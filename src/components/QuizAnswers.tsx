@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function QuizAnswers({ quiz }: { quiz: any }){
   if(!quiz) return <div className="quiz-card">No quiz loaded</div>
   return (
