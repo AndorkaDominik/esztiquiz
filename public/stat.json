@@ -2,22 +2,22 @@
   "title": "Stat ZH 2 kérdések teljes",
   "questions": [
     {
-      "question": "2021-ről 2025-re az átlagos vendégéjszakák száma 40%-kal csökkent. A részátlag-index 102%. Jelölje meg a helyes eredményt!",
+      "question": "Egy városban kíváncsiak voltak arra, hogy mi okozza az átlagos vendégéjszakák számának változását. 2021-ről 2025-re az átlagos vendégéjszakák száma 40%-kal csökkent. A turisták két csoportját vizsgálták: a belföldi és külföldi turistákat. A részátlag-index 102%. Jelölje meg a helyes eredményt!",
       "answers": ["I''=0,59", "I=0,59", "I'=0,59", "K''=0,59"],
       "correct": 0
     },
     {
-      "question": "2021-ről 2025-re az átlagos vendégéjszakák száma 20%-kal csökkent. A részátlag-index 102%. Mi okozta a csökkenést?",
+      "question": "Egy városban kíváncsiak voltak arra, hogy mi okozza az átlagos vendégéjszakák számának változását. 2021-ről 2025-re az átlagos vendégéjszakák száma 20%-kal csökkent. A turisták két csoportját vizsgálták: a belföldi és külföldi turistákat. A részátlag-index 102%. Mi okozta a csökkenést?",
       "answers": ["A részhatás", "Az összetételhatás", "Nem állapítható meg", "A és B együtt"],
       "correct": 1
     },
     {
-      "question": "Mit jelent az I''=1 a szellemi/fizikai munkakörök vizsgálatakor?",
+      "question": "Egy vállalatnál a különböző munkakörökben dolgozók (szellemi/fizikai) arányát és az átlagbéreket vizsgálták. Az alábbi részeredményt ismerjük: I”=1. Mit jelent ez?",
       "answers": [
         "Az átlagbérek azonos arányban változtak",
-        "A munkakörök aránya azonos arányban változott",
-        "A bérek nem változtak",
-        "A fizikai dolgozók aránya 100%-kal több"
+        "Az egyes munkakörök (fizikai/szellemi) aránya azonos arányban változott.",
+        "A bérek nem változtak a cégnél.",
+        "A fizikai munkakörben dolgozók aránya 100%-kal több a szellemi munkakörben dolgozók arányánál."
       ],
       "correct": 1
     },
@@ -25,74 +25,74 @@
       "question": "Mit jelent az I''=1 a nők/férfiak arányának vizsgálatakor?",
       "answers": [
         "Az átlagbérek azonos arányban változtak",
-        "A férfiak és nők aránya azonos arányban változott",
-        "A bérek nem változtak",
-        "A férfiak aránya 100%-kal több"
+        "A férfiak és a nő aránya azonos arányban változott.",
+        "A bérek nem változtak a cégnél.",
+        "A férfiak aránya 100%-kal több a nők arányánál."
       ],
       "correct": 1
     },
     {
-      "question": "Ha a nők és férfiak létszáma is 5%-kal nőtt, mekkora az összetétel-index?",
+      "question": "Egy vállalatnál a nők és férfiak létszáma is 5%-kal nőtt. Mekkora az összetétel-index nagysága?",
       "answers": ["I''=1", "I''=0", "I''=-1", "Nem számítható ki"],
       "correct": 0
     },
     {
-      "question": "Ha a fizikai és szellemi dolgozók létszáma is 7%-kal nőtt, mekkora az összetétel-index?",
+      "question": "Egy vállalatnál a fizikai és szellemi munkakörben alkalmazottak létszáma is 7%-kal nőtt. Mekkora az összetétel-index nagysága?",
       "answers": ["I''=1", "I''=0", "I''=-1", "Nem számítható ki"],
       "correct": 0
     },
     {
-      "question": "Mi fejezi ki a termékek egységárának relatív változását?",
+      "question": "A termékek egységárának relatív változását…",
       "answers": [
-        "Egyedi áreltérés",
-        "Fisher-féle árindex",
-        "Paasche-féle árindex",
-        "Egyedi árindex"
+        "az egyedi áreltérés fejezi ki.",
+        "a Fisher-féle árindex fejezi ki.",
+        "a Paasche-féle árindex fejezi.",
+        "az egyedi árindex fejezi ki."
       ],
       "correct": 3
     },
     {
-      "question": "Mit fejez ki az egyedi értékindex?",
+      "question": "Az egyedi értékindex kifejezi…",
       "answers": [
-        "Mennyiségi változás",
-        "Forgalom változása",
-        "Árváltozás",
-        "Volumen változás"
+        "a termékek mennyisségének változását.",
+        "a termékek forgalmának változását.",
+        "a termékek árának változását",
+        "a termékek volumenének változását."
       ],
       "correct": 1
     },
     {
-      "question": "Mi igaz az árindexre?",
+      "question": "Jelölje meg a helyes állítást!",
       "answers": [
-        "Árbevétel változását mutatja",
-        "Egységárak átlagos változását fejezi ki",
-        "Árváltozásokat fejezi ki",
-        "Egyik sem"
+        "Az árindex a termékek árbevételének változását mutatja meg.",
+        "Az árindex a különböző termékek egységárának átlagos változását fejezi ki.",
+        "Az árindex a különböző termékek árváltozását fejezi ki.",
+        "Egyik állítás sem helyes"
       ],
       "correct": 1
     },
     {
-      "question": "Mi igaz az értékindexre?",
+      "question": "Jelölje meg a helyes állítást!",
       "answers": [
-        "Csak árváltozást mutat",
-        "Csak mennyiségi változást mutat",
-        "Ár és mennyiség együttes hatását mutatja",
-        "Egyik sem"
+        "Az értékindex a termékek egységárainak változása miatt bekövetkező árváltozást mutatja.",
+        "Az értékindex az árváltozás hatását fejezi ki.",
+        "Az értékindex az árváltozás és a mennyiségi változás együttes hatását fejezi ki.",
+        "Egyik állítás sem helyes"
       ],
       "correct": 2
     },
     {
-      "question": "Egy termék ára -10% majd +15% változást mutat. Mi az összes változás?",
+      "question": "Egy vállalkozás először 10%-kal csökkentette, majd 15%-kal növelte egy termékének árát. Mekkora volt az árváltozás együttes (teljes) mértéke? (3 pont)",
       "answers": ["+25%", "+3,5%", "+5%", "+6,7%"],
       "correct": 1
     },
     {
-      "question": "Lehet-e, hogy két kenyér ára nő, de az átlagár csökken?",
+      "question": "Egy boltban kétféle kenyeret árulnak. Mindkettő ára emelkedett, a boltos mégis azt állítja, hogy a kenyér átlagára csökkent. Lehet-e igaza?",
       "answers": [
-        "Nem lehetséges",
-        "Igen, ha az olcsóbb kenyérből több fogy",
-        "Igen, ha az olcsóbb kenyér részesedése nő",
-        "Igen, ha az alacsonyabb árindexű kenyér részesedése nő"
+        "Nem, ez lehetetlen.",
+        "Igen, ha az olcsóbb kenyérből nőttek az eladások.",
+        "Igen, ha az olcsóbb kenyérnek nőtt a részesedése az összes eladáson belül.",
+        "Igen, ha az alacsonyabb árindexű kenyérnek nőtt a részesedése az összes eladáson belül."
       ],
       "correct": 2
     },
@@ -102,52 +102,52 @@
       "correct": 1
     },
     {
-      "question": "Felcserélhető-e az alap és a viszonyított érték az ár- és volumenindexnél?",
+      "question": "Igaz-e a területi összehasonlítások során használt ár- és volumenindexekre, hogy a viszonyítási alap és a viszonyítandó felcserélhető?",
       "answers": [
-        "Igen, mindkettőnél",
-        "Nem",
-        "Csak árindexnél",
-        "Csak volumenindexnél"
+        "Igen, mindkettő indextípusra",
+        "Hamis",
+        "Nem, ez csak árindex esetében igaz",
+        "Csak volumenindex esetében értelmezhető ez a tulajdonság."
       ],
       "correct": 0
     },
     {
-      "question": "Mit fejez ki az IqF(B/A) index?",
+      "question": "Két ország – A és B – esetében valamely termékcsoport fogyasztásának összehasonlításakor az IqF(B/A) index azt fejezi ki, hogy a vizsgált termékek körében:",
       "answers": [
-        "Valuták átváltási aránya",
-        "B ország fogyasztásának volumene hányszorosa A-énak",
-        "A valutával B-ben vásárolható mennyiség",
-        "B valutával A-ban vásárolható mennyiség"
+        "A ország valutája és B ország valutája között mi az átváltási arány",
+        "B ország fogyasztásának volumene hányszorosa A országénak.",
+        "A ország egységnyi valutájáért B-ben hányszoros mennyiséget vásárolhatunk.",
+        "B ország egységnyi valutájáért A-ban hányszoros mennyiséget vásárolhatunk."
       ],
       "correct": 1
     },
     {
-      "question": "Mit fejez ki az IqF(A/B) index?",
+      "question": "Két ország – A és B – esetében valamely termékcsoport fogyasztásának összehasonlításakor az IqF(A/B) index azt fejezi ki, hogy a vizsgált termékek körében:",
       "answers": [
-        "Valuták átváltási aránya",
-        "A ország fogyasztásának volumene hányszorosa B-nek",
-        "A valutával B-ben vásárolható mennyiség",
-        "B valutával A-ban vásárolható mennyiség"
+        "A ország valutája és B ország valutája között mi az átváltási arány.",
+        "A ország fogyasztásának volumene hányszorosa B országénak.",
+        "A ország egységnyi valutájáért B-ben hányszoros mennyiséget vásárolhatunk.",
+        "B ország egységnyi valutájáért A-ban hányszoros mennyiséget vásárolhatunk."
       ],
       "correct": 1
     },
     {
-      "question": "Mi jellemző a népszámlálásra?",
+      "question": "Az alábbiak közül mi jellemző a népszámlálásra?",
       "answers": [
         "Teljes körű adatfelvétel",
-        "Olcsóbb mint a mintavétel",
-        "Témaspecifikus",
-        "Nagy mintavételi hiba"
+        "Lényegesen olcsóbb a mintavételes lakossági megkérdezéseknél.",
+        "Gazdag, komplex, változatos, aktuális, témaspecifikus.",
+        "Jelentős mintavételi ingadozás jellemző rá."
       ],
       "correct": 0
     },
     {
-      "question": "Mi jellemző a mintavételre?",
+      "question": "Az alábbiak közül mi jellemző a mintavételre?",
       "answers": [
         "Teljes körű adatfelvétel",
-        "Kis területre részletes adat",
-        "Gazdag és aktuális",
-        "Nincs mintavételi hibája"
+        "Kis adatterületre is részletes adatokat eredményez.",
+        "Gazdag, komplex, változatos, aktuális, témaspecifikus.",
+        "Nincs mintavételi hibája."
       ],
       "correct": 2
     }
